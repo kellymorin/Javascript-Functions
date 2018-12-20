@@ -8,7 +8,6 @@ Write a program that prints the numbers from 1 to 100. But for multiples of five
 To determine if a number can be evenly divided by 5 or 7, use the JavaScript remainder operator.
 
 ## Practice 2 Assignment: Battle of the Bands
-
 A local nightclub is having a Battle of the Bands night in a few months. They expect many bands to sign up because the grand prize is $20,000. To make things easier on the nightclub management, they want each band to be assigned a number so that they can easily keep track of the order in which the bands will perform.
 
 Your job is to write a function that accepts any band name as an argument. The function will increment a global variable by one each time it is invoked, and return that number, and the band name concatenated together.
@@ -24,3 +23,6 @@ Create an addExcitement function that should console.log() rows of words. It sho
 Add logic to addExcitement that places an exclamation point (!) after every third word. Read the following English statement and write the equivalent in JavaSript code to make it work.
 
 Add a new argument to the function so that a developer can specify which character should be displayed instead of it always being an exclamation point.
+
+## Challenge: Arrow Functions
+Refactor practice 4 assignment to take the form of an arrow function. 
